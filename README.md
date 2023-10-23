@@ -3,7 +3,7 @@
 
 Tavuk çiftliği tanıtım projesidir
 
-1-Html ve Css kullanılmıştır
+- Html ve Css kullanılmıştır
 
 
 
